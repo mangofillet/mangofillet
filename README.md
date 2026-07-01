@@ -28,14 +28,14 @@
         <img src="https://raw.githubusercontent.com/mangofillet/vectris-demo/master/docs/demo.gif" width="100%"/>
       </a><br/>
       <b><a href="https://github.com/mangofillet/vectris-demo">VECTRIS — 3D Tetris</a></b><br/>
-      <sub>Browser 3D Tetris · Three.js · TypeScript</sub>
+      <sub>Full-stack 3D Tetris · Three.js + TS · Supabase/Postgres global leaderboard</sub>
     </td>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/mangofillet/Patent-Analytics">
         <img src="https://raw.githubusercontent.com/mangofillet/Patent-Analytics/main/docs/demo.gif" width="100%"/>
       </a><br/>
       <b><a href="https://github.com/mangofillet/Patent-Analytics">Patent Emerging Radar</a></b><br/>
-      <sub>Forecasts surging tech from 5.6M patents · clustering + LSTM</sub>
+      <sub>NLP clustering of 5.6M USPTO patents + LSTM growth forecasts</sub>
     </td>
   </tr>
   <tr>
@@ -44,14 +44,14 @@
         <img src="https://raw.githubusercontent.com/mangofillet/EU-micronutrient-atlas/main/docs/demo.gif" width="100%"/>
       </a><br/>
       <b><a href="https://github.com/mangofillet/EU-micronutrient-atlas">EU Micronutrient Atlas</a></b><br/>
-      <sub>Nutrient status across the EU · interactive Dash dashboard</sub>
+      <sub>ETL pipeline + interactive Plotly/Dash dashboard · 2,500+ foods</sub>
     </td>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/mangofillet/Drug-Shortage-Radar">
         <img src="https://raw.githubusercontent.com/mangofillet/Drug-Shortage-Radar/master/docs/demo.gif" width="100%"/>
       </a><br/>
       <b><a href="https://github.com/mangofillet/Drug-Shortage-Radar">Drug Shortage Radar</a></b><br/>
-      <sub>6-month US shortage early-warning · FDA data · ML + SHAP</sub>
+      <sub>Gradient-boosted 6-month shortage forecasts · FDA data · calibration + SHAP</sub>
     </td>
   </tr>
   <tr>
@@ -60,14 +60,14 @@
         <img src="https://raw.githubusercontent.com/mangofillet/Medicare-Fraud-Detector/master/docs/demo.gif" width="100%"/>
       </a><br/>
       <b><a href="https://github.com/mangofillet/Medicare-Fraud-Detector">Medicare Fraud Detector</a></b><br/>
-      <sub>Provider fraud watchlist · CMS Part D · XGBoost + SHAP</sub>
+      <sub>Rare-event fraud ML on 6 yrs CMS data · XGBoost · precision@k · SHAP</sub>
     </td>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/mangofillet/Crayfish-Identifier">
         <img src="https://raw.githubusercontent.com/mangofillet/Crayfish-Identifier/main/docs/demo.gif" width="100%"/>
       </a><br/>
       <b><a href="https://github.com/mangofillet/Crayfish-Identifier">CrayAlert</a></b><br/>
-      <sub>Selective crayfish trapping · computer-vision classifier</sub>
+      <sub>Deep-learning computer-vision image classifier · selective trapping</sub>
     </td>
   </tr>
 </table>
