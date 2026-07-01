@@ -6,6 +6,10 @@
 </p>
 
 <p align="center">
+  🔍 <b>Open to Data Analyst · Data Engineer · Data Scientist roles</b>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
   <img src="https://img.shields.io/badge/XGBoost-006ACC" alt="XGBoost"/>
@@ -71,6 +75,19 @@
     </td>
   </tr>
 </table>
+
+---
+
+### 🛠 Skills &amp; tech
+
+| | |
+|---|---|
+| **Languages** | Python · SQL · TypeScript |
+| **ML &amp; stats** | scikit-learn · XGBoost · LightGBM · calibration · imbalanced / rare-event modelling · time-series &amp; LSTM forecasting · causal inference · hypothesis testing |
+| **NLP** | sentence-transformers · BERTopic · UMAP · HDBSCAN · topic modelling · embeddings |
+| **Data &amp; viz** | pandas · NumPy · PyArrow / Parquet · Plotly / Dash · Streamlit · geospatial / choropleth |
+| **Data engineering** | ETL pipelines · web scraping · Supabase / Postgres · leakage-safe temporal validation |
+| **Rigor** | locked test windows · SHAP explainability · model calibration · honest, reproducible evaluation |
 
 ---
 
