@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm mangofillet 👋</h1>
+<h1 align="center">Hi, I'm Jin aka mangofillet </h1>
 
 <p align="center">
-  I turn messy public data into <b>dashboards, forecasts, and decision tools</b> —
+ <b>dashboards, forecasts, and decision tools</b> —
   early-warning radars, ML watchlists, and interactive data apps.
 </p>
 
@@ -23,7 +23,7 @@
 
 ---
 
-### 🚀 Featured projects
+### Featured projects
 
 <table>
   <tr>
@@ -78,7 +78,7 @@
 
 ---
 
-### 🛠 Skills &amp; tech
+### Skills &amp; tech
 
 | | |
 |---|---|
@@ -88,7 +88,7 @@
 | **Data &amp; viz** | pandas · NumPy · PyArrow / Parquet · Plotly / Dash · Streamlit · geospatial / choropleth |
 | **Data engineering** | ETL pipelines · web scraping · Supabase / Postgres · leakage-safe temporal validation |
 | **Rigor** | locked test windows · SHAP explainability · model calibration · honest, reproducible evaluation |
-
+ Claude code AI skills (Karpinsky method, modern engineering, skills, prompt engineering)
 ---
 
 <sub>Also on my radar: <a href="https://github.com/mangofillet/Complaint-Radar">Complaint-Radar</a> (NLP topic modelling + causal analysis over 3M CFPB complaints) · <a href="https://github.com/mangofillet/Legality-Atlas">Legality-Atlas</a> · <a href="https://github.com/mangofillet/App-Opportunity-Gaps">App-Opportunity-Gaps</a>.</sub>
