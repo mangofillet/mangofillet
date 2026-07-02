@@ -32,7 +32,7 @@
         <img src="https://raw.githubusercontent.com/mangofillet/vectris-demo/master/docs/demo.gif" width="100%"/>
       </a><br/>
       <b><a href="https://github.com/mangofillet/vectris-demo">VECTRIS — 3D Tetris</a></b><br/>
-      <sub>Full-stack 3D Tetris · Three.js + TS · Supabase/Postgres global leaderboard</sub>
+      <sub>Full-stack 3D Tetris · Three.js + TS · Supabase/Postgres leaderboard + event-telemetry pipeline (RLS-secured) &amp; Streamlit analytics dashboard</sub>
     </td>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/mangofillet/Patent-Analytics">
